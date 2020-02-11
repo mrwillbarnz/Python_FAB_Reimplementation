@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "C:\\Users\\Will\\envs\\pymodern\\Scripts\\python.exe",
+    "python.pythonPath": "/usr/sbin/python",
     "cSpell.ignoreWords": [
         "ibly",
         "terr"
