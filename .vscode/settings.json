@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "/usr/sbin/python",
+    "python.pythonPath": "C:\\Python38\\python.exe",
     "cSpell.ignoreWords": [
         "ibly",
         "terr"
