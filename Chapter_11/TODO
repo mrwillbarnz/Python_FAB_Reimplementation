@@ -1,0 +1,7 @@
+# TODO
+1. Improve the Pizza panic game by increasing its difficulty as the game progresses. Think of different ways to accomplish this. You could increase the speed of the pizzas and the speed of the
+chef. You could increase the speed of the pizzas and the speed of the chef. You could raise the player's pan to a higher position on the screen. You could even increase the number of crazy individuals
+flinging pizzas.
+2. Write a game where the player controls a character that must avoid falling debris. The player controls the character with mouse and objects fall from the sky.
+3. Create a simple, one-player game of Pong, where a player controls a paddle and the ball bounces off three walls. If the balls gets by the player's paddle, the game is over.
+
