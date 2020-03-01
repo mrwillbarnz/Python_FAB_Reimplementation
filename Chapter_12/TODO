@@ -1,4 +1,6 @@
 # TODO
-1.
-2.
-3.
+1. Improve the Astrocrash game by creating a new kind of deadly space debris.
+Give this new type of debris some quality that differentiates it from the asteroids. For example, maybe the debris requires two missile strikes
+to be destroyed.
+2. Write a version of the Simon Says game in which a player has to repeat an ever-growing, random sequence of colors and sounds using a keyboard.
+3. Write your own version of another classic video game, such as Space Invaders or Pac-Man.
